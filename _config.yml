@@ -1,4 +1,3 @@
 github: [metadata]
-theme: jekyll-theme-minimal
 plugins:
   - "jekyll-github-metadata"
