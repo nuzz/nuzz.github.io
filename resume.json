@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Matthew Nuzzaco",
+    "label": "programmer",
+    "picture": "",
+    "email": "mnuzzaco@gmail.com",
+    "phone": "+1 415 868 5114",
+    "website": "https://nuzz.co",
+    "summary": "Programmer with 15+ years experience working in the software industry with a focus on internet platforms. I enjoy building efficient systems and solving big problems",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Brandenburg"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "nuzz",
+        "url": "https://github.com/nuzz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sight Machine",
+      "position": "DevOps",
+      "website": "http://sightmachine.com",
+      "startDate": "2013-09-23",
+      "endDate": "2018-02-12",
+      "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together to a cloud based software platform. This Sight Machine plaform gives manufacturers access to machine vision quality control systems, operational efficiency tracking complex analytics such as process control, root cause analyis and machine learning algorithms.",
+      "highlights": [
+        "Built out CI/CD systems and developer tooling",
+        "Successfully converted from legacy EC2/hardware based systems to container based Kubernetes infrastructure",
+        "Supplied daily operational and engineering team support/advice"
+      ]
+    },
+    {
+      "company": "Idle Games",
+      "position": "QA Engineering",
+      "website": "http://idlegames.com",
+      "startDate": "2010-11-01",
+      "endDate": "2012-10-01",
+      "summary": "Game studio developing massively multi-player software platform. Idle Games pioneered the social media focused MMOG genre with their flagship title Idle Worship.",
+      "highlights": [
+        "Software/Product testing",
+        "Wrote automated gameplay testing software and results tracking system"
+      ]
+    },
+    {
+      "company": "Adobe Systems Inc.",
+      "position": "QA Engineering",
+      "website": "http://adobe.com",
+      "startDate": "2007-09-01",
+      "endDate": "2009-09-01",
+      "summary": "Worked on Adobe's experimental mobile application systems team. We were developing a system for phones to download and use 3rd party software on limited capacity feature phones.",
+      "highlights": [
+        "Software/Product testing",
+        "Operated backend system for managing software delivery to mobile phone subscribers",
+        "Worked with carriers such as Verizon and NTT DoCoMo to debug and support live systems"
+      ]
+    },
+    {
+      "company": "ManTech",
+      "position": "Software Developer",
+      "website": "http://mantech.com",
+      "startDate": "2000-06-01",
+      "endDate": "2007-07-01",
+      "summary": "Software and internet technology government contractor.",
+      "highlights": [
+        "Software development/testing",
+        "C#/ASP .NET system for the United Sates Postal Service",
+        "Developed various internet based software management systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "area": "Information Technology / New Media",
+      "studyType": "Bachelor",
+      "startDate": "1999-09-01",
+      "endDate": "2003-06-01",
+      "gpa": "3.6"
+    }
+  ],
+  "skills": [
+    {
+      "name": "DevOps / Software Development",
+      "keywords": [
+        "CI/CD",
+        "Python",
+        "Go",
+        "Virtualization",
+        "Containerization",
+        "Docker",
+        "Distributed Systems",
+        "Kubernetes",
+        "AWS",
+        "Google Cloud",
+        "Azure",
+        "Postgrs",
+        "MongoDB",
+        "Elastisearch",
+        "Monitoring",
+        "linux",
+        "Git / DVCS",
+        "data processing pipelines",
+        "ETL",
+        "machine vision"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ]
+}
