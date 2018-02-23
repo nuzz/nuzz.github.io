@@ -1,3 +1,4 @@
 github: [metadata]
 theme: jekyll-theme-minimal
-title: "nuzz.co"
+plugins:
+  - "jekyll-github-metadata"
