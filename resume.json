@@ -100,15 +100,15 @@
         "AWS",
         "Google Cloud",
         "Azure",
-        "Postgrs",
+        "Postgres",
         "MongoDB",
-        "Elastisearch",
+        "Elastisearch/Kibana",
         "Monitoring",
-        "linux",
+        "Linux",
         "Git / DVCS",
-        "data processing pipelines",
+        "Data processing pipelines",
         "ETL",
-        "machine vision"
+        "Machine vision"
       ]
     }
   ],
