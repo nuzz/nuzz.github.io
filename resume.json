@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "company": "Sight Machine",
+      "company": "Sight Machine - San Francisco, CA",
       "position": "DevOps",
       "website": "http://sightmachine.com",
       "startDate": "2013-09-23",
-      "endDate": "2018-02-12",
+      "endDate": "2017-12-01",
       "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together to a cloud based software platform. This Sight Machine plaform gives manufacturers access to machine vision quality control systems, operational efficiency tracking complex analytics such as process control, root cause analyis and machine learning algorithms.",
       "highlights": [
         "Built out CI/CD systems and developer tooling",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "company": "Idle Games",
+      "company": "Idle Games - San Francisco, CA",
       "position": "QA Engineering",
       "website": "http://idlegames.com",
       "startDate": "2010-11-01",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "company": "Adobe Systems Inc.",
+      "company": "Adobe Systems Inc - San Francisco, CA",
       "position": "QA Engineering",
       "website": "http://adobe.com",
       "startDate": "2007-09-01",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "company": "ManTech",
+      "company": "ManTech - Chantilly, VA",
       "position": "Software Developer",
       "website": "http://mantech.com",
       "startDate": "2000-06-01",
