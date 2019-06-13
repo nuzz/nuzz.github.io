@@ -28,12 +28,13 @@
       "position": "DevOps",
       "website": "http://sightmachine.com",
       "startDate": "2013-09-23",
-      "endDate": "2017-12-01",
+      "endDate": "2017-08-01",
       "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together to a cloud based software platform. This Sight Machine plaform gives manufacturers access to machine vision quality control systems, operational efficiency tracking complex analytics such as process control, root cause analyis and machine learning algorithms.",
       "highlights": [
-        "Built out CI/CD systems and developer tooling",
-        "Successfully converted from legacy EC2/hardware based systems to container based Kubernetes infrastructure",
-        "Supplied daily operational and engineering team support/advice"
+        "Designed and set standards for CI/CD pipelines",
+        "Developed platform engineering tooling",
+        "Successfully converted from legacy EC2/hardware based systems to containers running on Kubernetes",
+        "Site reliability/on-call operations support"
       ]
     },
     {
