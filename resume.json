@@ -28,7 +28,7 @@
       "position": "DevOps",
       "website": "http://sightmachine.com",
       "startDate": "2013-09-23",
-      "endDate": "2017-08-01",
+      "endDate": "2019-08-01",
       "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together to a cloud based software platform. This Sight Machine plaform gives manufacturers access to machine vision quality control systems, operational efficiency tracking complex analytics such as process control, root cause analyis and machine learning algorithms.",
       "highlights": [
         "Designed and set standards for CI/CD pipelines",
