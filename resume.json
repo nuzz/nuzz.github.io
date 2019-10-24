@@ -29,12 +29,13 @@
       "website": "https://sightmachine.com",
       "startDate": "2013-09-23",
       "endDate": "2019-08-01",
-      "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together to a cloud based software platform. This Sight Machine platform gives manufacturers access to machine vision quality control systems, operational efficiency tracking complex analytics such as process control, root cause analysis and machine learning algorithms.",
+      "summary": "Industrial IoT company providing analytics for manufacturers. Sight Machine allows manufacturers to connect their facilities together via cloud based software. The Sight Machine platform gives manufacturers access to machine vision quality control systems, operational efficiency, tracking, process control, root cause analysis and machine learning algorithms.",
       "highlights": [
-        "Designed and set standards for CI/CD pipelines",
+        "Designed and built CI/CD pipelines",
         "Developed platform engineering tooling",
-        "Successfully converted from legacy EC2/hardware based systems to containers running on Kubernetes",
-        "Site reliability/on-call operations support"
+        "Migrated legacy EC2/hardware based systems to containers running on Kubernetes",
+        "Assisted in SOC 2 compliance certification efforts",
+        "Site Reliability/On-Call operations support"
       ]
     },
     {
@@ -119,7 +120,7 @@
     },
     {
       "language": "German",
-      "fluency": "Beginner"
+      "fluency": "A1"
     }
   ]
 }
